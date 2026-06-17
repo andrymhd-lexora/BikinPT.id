@@ -1,6 +1,6 @@
 import React from 'react';
 
-const logoIconImg = "/src/assets/images/logo_icon_1781667690273.jpg";
+const logoIconImg = "/logo_icon.jpg";
 
 interface LogoProps {
   className?: string;
